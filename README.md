@@ -1,5 +1,9 @@
 # Temperature Anomaly Streamlit Dashboard
 
+
+**Public Link** to view the app:
+- https://test-app-zedyd44t5kzx4wbunaetd9.streamlit.app/  
+
 ## Quick Start
 
 ### 1. Set up your project structure
